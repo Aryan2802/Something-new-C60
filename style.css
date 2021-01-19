@@ -1,0 +1,42 @@
+body{
+    text-align:center; 
+    background: linear-gradient(crimson 0%,aqua 100%);
+} 
+h1{
+    font-size:30px;
+    font-family:arial; 
+    font-weight: 500; 
+    
+} 
+#lul{
+ margin-left: 35px;   
+} 
+#app{ 
+    width:100%;
+    height:800px;
+} 
+.line{
+    width:120px; 
+    height:15px; 
+    background-color:black; 
+    margin:7px auto; 
+    opacity:0.6; 
+    margin-bottom: 20px;
+} 
+img{ 
+    transition: transform .2s; 
+} 
+img:hover{
+    transform: scale(1.1);
+}  
+#LUlles{
+    margin-left: 30px;
+} 
+#game{
+    height:600px; 
+    width:100%;
+}  
+#chat{
+    height:700px;
+    width:100%;
+}
